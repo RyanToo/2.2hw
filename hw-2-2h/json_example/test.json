@@ -1,0 +1,46 @@
+{
+    "test_name": "Тест 1",
+    "questions": {
+        "question1": {
+            "question_title": "Укажите сколько планет в солнечной системе",
+            "input_type": "radio",
+            "variants": [
+                "8",
+                "9",
+                "7",
+                "6"    
+            ],
+            "answers": [
+                "8"
+            ]
+        },
+        "question2": {
+            "question_title": "Кто такой Аль Капоне",
+            "input_type": "checkbox",
+            "variants": [
+                "Юнный волшебник",
+                "Политик",
+                "Преступник",
+                "Известный полицейский",
+                "Автор книг : ГарриПотер"
+            ],
+            "answers": [
+                "Преступник"
+            ]
+        },
+        "question3": {
+            "question_title": "17/2",
+            "input_type": "radio",
+            "variants": [
+                "8",
+                "8.5",
+                "8.3",
+                "9.2",
+                "7.9"
+            ],
+            "answers": [
+                "8.5"
+            ]
+        }
+    } 
+}

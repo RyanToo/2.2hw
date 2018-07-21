@@ -1,0 +1,47 @@
+{
+    "test_name": "Тест 3",
+    "questions": {
+        "question1": {
+            "question_title": "45*45=?",
+            "input_type": "radio",
+            "variants": [
+                "4200",
+                "4012",
+                "2145",
+                "2025"    
+            ],
+            "answers": [
+                "2025"
+            ]
+        },
+        "question2": {
+            "question_title": "Чему будет равен X в выражении 9*12=?",
+            "input_type": "radio",
+            "variants": [
+                "81",
+                "71",
+                "108",
+                "74"
+            ],
+            "answers": [
+                "108"
+            ]
+        },
+        "question3": {
+            "question_title": "Выберите из списка четные числа",
+            "input_type": "checkbox",
+            "variants": [
+                "35",
+                "64",
+                "182",
+                "81",
+                "162"
+            ],
+            "answers": [
+                "64",
+                "182",
+                "162"
+            ]
+        }
+    } 
+}

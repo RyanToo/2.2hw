@@ -1,0 +1,46 @@
+{
+    "test_name": "Тест 2",
+    "questions": {
+        "question1": {
+            "question_title": "Укажите столицу Австрии",
+            "input_type": "radio",
+            "variants": [
+                "Рим",
+                "Вена",
+                "Прага",
+                "Манчестер"    
+            ],
+            "answers": [
+                "Вена"
+            ]
+        },
+        "question2": {
+            "question_title": "45+36",
+            "input_type": "radio",
+            "variants": [
+                "79",
+                "91",
+                "81",
+                "много",
+                "1"
+            ],
+            "answers": [
+                "81"
+            ]
+        },
+        "question3": {
+            "question_title": "34-45",
+            "input_type": "radio",
+            "variants": [
+                "11",
+                "0",
+                "79",
+                "1",
+                "-11"
+            ],
+            "answers": [
+                "-11"
+            ]
+        }
+    } 
+}
